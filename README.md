@@ -1,7 +1,5 @@
-# ananya
-this is my new repository
-ananya 
-king isa king 
+# ananya<br> 
+king isa king<br> 
 teju is queen <br>
 yashu
 
